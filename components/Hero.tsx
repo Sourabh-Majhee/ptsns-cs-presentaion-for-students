@@ -16,7 +16,7 @@ const Hero: React.FC = () => {
           transition={{ duration: 0.8, delay: 0.2 }}
         >
           Computer Science Department
-          <span className="block text-blue-400 mt-2 md:mt-4">Where Innovation Actually Happens</span>
+          <span className="block text-blue-400 mt-2 md:mt-4">Where Innovation Happens</span>
         </motion.h1>
         <motion.p 
           className="mt-6 text-lg md:text-xl text-gray-300 max-w-2xl mx-auto"
